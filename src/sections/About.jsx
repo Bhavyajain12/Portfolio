@@ -17,9 +17,9 @@ const About = () => {
             className="absolute scale-[1.75] -right-[5rem] -top-[1rem] md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5]"
           />
           <div className="z-10">
-            <p className="headtext">Hi, I'm Mayank</p>
+            <p className="headtext">Hi, I'm Bhavya</p>
             <p className="subtext">
-             I love turning ideas into working applications. From developing a News Aggregator to designing a Hangman game, I enjoy combining creativity with code.
+             Aspiring software developer with experience in web development, problem solving, and real-time applications. I love turning ideas into functional projects using modern technologies like JavaScript and React. Constantly learning and exploring new tools to grow as a developer.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -99,10 +99,9 @@ const About = () => {
         {/* Grid 5 */}
         <div className="grid-default-color grid-5">
           <div className="z-10 w-[50%]">
-            <p className="headText">Teck Stack</p>
+            <p className="headText">Tech Stack</p>
             <p className="subtext">
-              I specialize in a variety of languages, frameworks, and tools that
-              allow me to build robust and scalable applications
+              I work with a range of technologies including C++, JavaScript, React, and MySQL to build responsive web applications and interactive projects. My experience spans frontend development, problem solving, and embedded systems using Arduino, allowing me to create efficient and practical solutions.
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">

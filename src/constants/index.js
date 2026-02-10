@@ -2,69 +2,59 @@
 export const myProjects = [
   {
     id: 1,
-    title: "Hangman game",
+    title: "Type Rush ",
     description:
-      "A classic Hangman game built with web technologies, where players guess letters to uncover a hidden word within limited attempts.",
+      "Developed a real-time typing speed game using HTML, CSS, and JavaScript that calculates WPM, accuracy, and provides instant visual feedback.",
     subDescription: [
-      "A classic word-guessing game where players attempt to identify a hidden word by suggesting letters within a limited number of chances. Each incorrect guess adds a part to the hangman figure, increasing the challenge. The game features real-time feedback, dynamic updates, and an engaging user interface. It combines logic, interactivity, and simple design for an enjoyable experience.",
+      "Created a real-time typing test platform with advanced performance tracking and instant visual feedback. Implemented accurate metric calculations up to two decimal precision. Enhanced user experience through dynamic UI updates and interactive gameplay.",
     ],
-    href: "",
+    href: "https://bhavyajain12.github.io/Type-Rush/",
     logo: "",
-    image: "/portfolio/assets/projects/HangMan.png",
+    image: "/portfolio/assets/projects/TypeRush.png",
     tags: [
       {
         id: 1,
         name: "HTML5",
-        path: "/portfolio/assets/logos/csharp.svg",
+        path: "/portfolio/assets/logos/html.png",
       },
       {
         id: 2,
         name: "CSS",
-        path: "/portfolio/assets/logos/dotnet.svg",
+        path: "/portfolio/assets/logos/css.png",
       },
       {
         id: 3,
         name: "JavaScript",
-        path: "/portfolio/assets/logos/efcore.png",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/portfolio/assets/logos/tailwindcss.svg",
+        path: "/portfolio/assets/logos/javascript.png",
       },
     ],
   },
   {
     id: 2,
-    title: "News Aggregator",
+    title: "Simon Game ",
     description:
-      "Created a web page that fetches and displays news which is Centralized News Collection..",
+      "Developed an interactive memory-based game using HTML, CSS, and JavaScript featuring dynamic pattern generation and progressive difficulty levels.",
     subDescription: [
-      "A web-based News Aggregator that fetches and displays articles from multiple sources using APIs. The platform centralizes news in one place, providing real-time updates and push notifications for breaking news. Users can bookmark articles, share content, and stay informed with a dynamic and interactive interface. This project demonstrates seamless integration of APIs and responsive frontend design.",
+      "Implemented a dynamic scoring system that tracks player performance and advances levels based on correct input sequences. Integrated event listeners and callbacks to manage game logic and user interactions efficiently. Enhanced user engagement by adding sound effects and immersive visual feedback for a challenging gameplay experience.",
     ],
-    href: "",
+    href: "https://bhavyajain12.github.io/SimonGame/",
     logo: "",
-    image: "/portfolio/assets/projects/News Aggregator.png",
+    image: "/portfolio/assets/projects/SimonGame.png",
     tags: [
       {
         id: 1,
-        name: "API",
-        path: "/portfolio/assets/logos/auth0.svg",
+        name: "HTML5",
+        path: "/portfolio/assets/logos/html.png",
       },
       {
         id: 2,
-        name: "React",
-        path: "/portfolio/assets/logos/react.svg",
+        name: "CSS",
+        path: "/portfolio/assets/logos/css.png",
       },
       {
         id: 3,
-        name: "SQLite",
-        path: "/portfolio/assets/logos/sqlite.svg",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/portfolio/assets/logos/tailwindcss.svg",
+        name: "JavaScript",
+        path: "/portfolio/assets/logos/javascript.png",
       },
     ],
   },
